@@ -1,0 +1,3 @@
+/Users/yrdnqldrwn/Desktop/Clion #c++/homeWork/ex 2/cmake-build-debug/CMakeFiles/ex_2.dir
+/Users/yrdnqldrwn/Desktop/Clion #c++/homeWork/ex 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yrdnqldrwn/Desktop/Clion #c++/homeWork/ex 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
